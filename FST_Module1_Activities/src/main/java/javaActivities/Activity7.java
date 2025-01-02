@@ -1,4 +1,4 @@
-package activities;
+package javaActivities;
 
 interface BicycleParts {
 	public int tyres = 2;

@@ -1,4 +1,4 @@
-package activities;
+package javaActivities;
 
 class CustomException extends Exception {
 	private String message = null;

@@ -1,4 +1,4 @@
-package activities;
+package javaActivities;
 
 interface Addable {
 int add(int a, int b);

@@ -1,4 +1,4 @@
-package activities;
+package javaActivities;
 
 public class Car {
 	String color, transmission;

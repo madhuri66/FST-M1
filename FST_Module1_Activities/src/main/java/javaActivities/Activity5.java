@@ -1,4 +1,4 @@
-package activities;
+package javaActivities;
 
 abstract class Book {
 	String title;
